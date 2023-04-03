@@ -59,7 +59,7 @@ Other parameters are passed through a pointer to an apiGetInfoRequest struct via
 
 ### Return type
 
-[**ApiInfoDto**](ApiInfoDto.md)
+[**ApiInfoDto**](../models/ApiInfoDto.md)
 
 ### HTTP request headers
 
@@ -117,7 +117,7 @@ Other parameters are passed through a pointer to an apiGetJsonOpenApiSpecRequest
 
 ### Return type
 
-[***os.File**](*os.File.md)
+[***os.File**](../models/*os.File.md)
 
 ### HTTP request headers
 
@@ -175,7 +175,7 @@ Other parameters are passed through a pointer to an apiGetYamlOpenApiSpecRequest
 
 ### Return type
 
-[***os.File**](*os.File.md)
+[***os.File**](../models/*os.File.md)
 
 ### HTTP request headers
 
