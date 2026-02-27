@@ -39,7 +39,7 @@ All available server URLs are:
 
 - *https://certificate-manager.de-fra.ionos.com* - Frankfurt
 
-By default, *https://certificate-manager.de-fra.ionos.com* is used, however this can be overriden at authentication, either
+By default, *https://certificate-manager.de-fra.ionos.com* is used, however this can be overridden at authentication, either
 by setting the `IONOS_API_URL` environment variable or by specifying the `hostUrl` parameter when
 initializing the sdk client.
 
